@@ -4,6 +4,12 @@ To build the Hangman Game was one of my first individual assignments as a full s
 
 # Screenshots
 
+![Start](https://github.com/Ekaterina-V/Hangman-Game/blob/master/images/Start.png)
+
+![Finish](https://github.com/Ekaterina-V/Hangman-Game/blob/master/images/Finish.png)
+
+![Try again](https://github.com/Ekaterina-V/Hangman-Game/blob/master/images/Try%20again.png)
+
 
 # How to run 
 
